@@ -65,10 +65,10 @@ https://www.buymeacoffee.com/akshitkchandora
 
 <br/>
 <p align="center">
-<a href="https://twitter.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://www.linkedin.com/in/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://www.facebook.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://www.instagram.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/akshitchandora"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/akshitchandora"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/akshitchandora"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/akshitchandora"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
 <p align="center"><img src="gh-1.gif" width="200px"><img src="gh-4.png" width="200px"><img src="gh-2.gif" width="200px">
