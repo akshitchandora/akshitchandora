@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="" width="1000px">
+<img src="abc.gif" width="1000px">
 
 I'm **Akshit Kumar Chandora**, a Front End Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
 
