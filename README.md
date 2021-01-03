@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="abc.gif" width="1000px">
 
-I'm **Akshit Kumar Chandora**, a Front End Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
+I'm **Akshit Chandora**, a Front End Developer, looking to solve real-world problems🌏. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄.
 
 I love connecting with different people so if you want to say hi 💬 akshitkumarchandora@gmail.com, I'll be happy to have a chat with you!
 
@@ -53,15 +53,15 @@ https://www.buymeacoffee.com/akshitkchandora
 
 <br/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akshitkumarchandora&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="akshit-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=akshitchandora&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="akshit-stats" />
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitkumarchandora&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitchandora&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact">
 </p>
 <br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=akshitkumarchandora&color=green&style=flat-square&color=7A29C3" width="150px" /></p>
+<img src="https://komarev.com/ghpvc/?username=akshitchandora&color=green&style=flat-square&color=7A29C3" width="150px" /></p>
 
 <br/>
 <p align="center">
