@@ -23,12 +23,10 @@ Always ready to colabrate with different people and their weird ideas and stuffs
 ## 💼 Things that I'm currently working on:
 
 -   Learning Back-End Web💻 Development.
--   Looking forward to take a Flutter📲 course in future.🔜
 
 ## 🔭 Things I could do:
 
 -   Code in C, C++, Java, JavaScript and Python.
--   Technologies I use React, React Native, Next.js, Firebase, NodeJS, mongoDb.
 -   My IDE Visual Studio Code.
 
 ### Suppport my work 
